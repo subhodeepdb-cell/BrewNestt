@@ -10,7 +10,7 @@ No frameworks, no libraries — just clean, well-structured frontend code.
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 **BrewNestt** is a frontend project for an artisan tea and coffee shop.  
 The goal was to build a visually polished, real-world website using only core web technologies — 
@@ -18,7 +18,7 @@ making it perfect for learning and demonstrating fundamental frontend skills.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
@@ -33,32 +33,33 @@ making it perfect for learning and demonstrating fundamental frontend skills.
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 BrewNestt/
 │
-├── index.html          ← Main HTML (all sections)
+├── index.html          
 │
 ├── css/
-│   ├── style.css       ← Layout, components, responsive styles
-│   └── animations.css  ← Scroll reveals, entrance animations
+│   ├── style.css       
+│   └── animations.css  
 │
 ├── js/
-│   └── main.js         ← All JavaScript features (well-commented)
+│   └── main.js        
 │
-└── README.md           ← This file
+└── README.md           
 ```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 No build tools or installations needed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/brewnest.git
+git clone https://github.com/subhodeepdb-cell
+/brewnest.git
 
 # Open in browser
 open index.html
@@ -67,7 +68,7 @@ open index.html
 
 ---
 
-## 💡 JavaScript Concepts Used
+## JavaScript Concepts Used
 
 Perfect for beginners to study and explain in interviews:
 
@@ -82,7 +83,7 @@ Perfect for beginners to study and explain in interviews:
 
 ---
 
-## 🎨 CSS Concepts Used
+## CSS Concepts Used
 
 1. **CSS Custom Properties (Variables)** — design tokens for colors, fonts, spacing
 2. **CSS Grid & Flexbox** — responsive layout without any framework
@@ -94,7 +95,7 @@ Perfect for beginners to study and explain in interviews:
 
 ---
 
-## 📱 Sections
+## Sections
 
 - **Navbar** — sticky, responsive, active link highlighting
 - **Hero** — headline, CTA buttons, stats, floating cup card
@@ -107,7 +108,7 @@ Perfect for beginners to study and explain in interviews:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Add a real backend (Node.js / PHP) for the contact form
 - [ ] Integrate a payment gateway for online ordering
@@ -117,10 +118,10 @@ Perfect for beginners to study and explain in interviews:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**[Your Name]**  
-3rd Year B.Tech | [Your College Name]  
+**SUBHODEEP KUNDU**  
+3rd Year B.Tech | Netaji Subhash Engineering College
 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
 
 ---
